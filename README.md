@@ -2,7 +2,7 @@ This Dashboard Analysis uncovers  students who signed up for online career cours
 Business analysis, project management, data analysis, software development, digital marketing, manual and automated testing,
 and scrum mastering are among the topics covered in these courses. The goal was to ascertain which channels drove the most website traffic and which courses, 
 out of all those advertised, had the highest enrolment rates. The students learned about the classes through a variety of media, 
-including Twitter, Instagram, TikTok, Facebook YouTube, and friend referrals.
+including Twitter, Instagram, TikTok, Facebook YouTube, and friend referrals. Excel and Power Bi was used to clean,manipulate and analysis this project.
 
 **Descriptive Analysis**
 
