@@ -73,5 +73,7 @@ Least popular - Scrum Master, Risk Management
 **Recommendations**
 
 Improving customer satisfaction to drive word-of-mouth referral
+
 Evaluating fees/content for least popular courses 
+
 Increased digital marketing budget allocation basis model estimates
