@@ -1,3 +1,4 @@
+INTRODUCTION
 This Dashboard Analysis uncovers  students who signed up for online career courses through Google Ads. For those who were interested, there were 11 Program offered. 
 Business analysis, project management, data analysis, software development, digital marketing, manual and automated testing,
 and scrum mastering are among the topics covered in these courses. The goal was to ascertain which channels drove the most website traffic and which courses, 
@@ -33,10 +34,8 @@ Enrollment distribution across time:
 - Combined 2 years - 85.7%
 
 Nearly 86% subscriptions occurred just across 2 recent years indicating potential for further growth.
- **Dashboard Description**
-This dashboard provides insights into users signing up for various online career courses promoted via digital channels like Google Ads. The range of programs offered are:
-
-
+This dashboard provides insights into users signing up for various online career courses promoted via digital channels like Google Ads:
+The Top 5 programs offered are:
 Business Analysis 
 Project Management 
 Data Analysis
@@ -55,25 +54,44 @@ Data Cleaning: Handled data inconsistencies like duplicate entries, formatted co
 
 Methods Used: ANOVA, Regression Analysis, Descriptive Statistics
 
- **Key Insights**
+ **ANALYSIS**
  
-**Top Acquisition Channels**
+Course Popularity:
+
+Business Analysis was the most popular course with 46.3% of total enrollments
+The top 4 most popular courses captured 94% of total enrollments
+The least popular courses were Scrum Master, Graphic Design, and Risk Management
+
+User Acquisition Channels:
+Word-of-mouth referrals drove 48% of users to the platform
+YouTube ads drove 28% of users
+Facebook/Instagram ads and organic underperformed other channels
+
+Enrollment Time Period:
+43.2% of enrollments were in 2019
+42.5% of enrollments were in 2021
+Combined, 2019 and 2021 made up 85.7% of total enrollments
 
 48% users discovered from word-of-mouth referrals
 YouTube ads drove 28% traffic
 Facebook/Instagram ads & organic underperformed
 
-**Course Enrollment Analysis**
+**RESULTS**
 
 Business Analysis most popular with 46.3% sign-ups
 4 courses captured 94% all subscriptions
 Least popular - Scrum Master, Risk Management
 
 
-**Recommendations**
+**RECOMMEDATIONS**
 
 Improving customer satisfaction to drive word-of-mouth referral
 
 Evaluating fees/content for least popular courses 
 
 Increased digital marketing budget allocation basis model estimates
+
+
+![image](https://github.com/julietidika/Analysis-of-Course-Enrollment--Google-Ads-Data-2018-2022-/assets/148558224/0cbdd011-8daa-4f39-b1c2-1f0fa082be88)
+
+
