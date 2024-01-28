@@ -1,4 +1,5 @@
-INTRODUCTION
+**INTRODUCTION**
+
 This Dashboard Analysis uncovers  students who signed up for online career courses through Google Ads. For those who were interested, there were 11 Program offered. 
 Business analysis, project management, data analysis, software development, digital marketing, manual and automated testing,
 and scrum mastering are among the topics covered in these courses. The goal was to ascertain which channels drove the most website traffic and which courses, 
